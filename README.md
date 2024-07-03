@@ -63,11 +63,11 @@ This project is licensed under the MIT License.
 
 ## Credits
 
-Developed by Utkarsh Paliwal, Utkarsh Goyal, Shubham Saurav, Sparsh Singh.
+Developed by  Sparsh Singh,Utkarsh Paliwal, Utkarsh Goyal, Shubham Saurav.
 
 ## Support
 
-For support, contact utkarshpaliwal1234@gmail.com or ukgoyal123@gmail.com.
+For support, contact utkarshpaliwal1234@gmail.com or sparsh262002@gmail.com.
 
 ## Home Page
 
