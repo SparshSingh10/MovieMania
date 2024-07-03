@@ -19,7 +19,7 @@ Provides a utility-first CSS framework for styling, allowing for rapid UI develo
 ### Clone the repository
 
 ```bash
-git clone https://github.com/upaliwal1234/Movie-Ticket-Booking
+git clone https://github.com/SparshSingh10/MovieMania
 ```
 
 ### Install dependencies:
